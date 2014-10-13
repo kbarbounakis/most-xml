@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Employees>
+    <Employee>
+        <employeeNumber>1002</employeeNumber>
+        <lastName>Murphy</lastName>
+        <firstName>Diane</firstName>
+        <extension>x5800</extension>
+        <email>dmurphy@classicmodelcars.com</email>
+        <officeCode>1</officeCode>
+        <reportsTo></reportsTo>
+        <jobTitle>President</jobTitle>
+    </Employee>
+    <Employee>
+        <employeeNumber>1056</employeeNumber>
+        <lastName>Patterson</lastName>
+        <firstName>Mary</firstName>
+        <extension>x4611</extension>
+        <email>mpatterso@classicmodelcars.com</email>
+        <officeCode>1</officeCode>
+        <reportsTo>1002</reportsTo>
+        <jobTitle>VP Sales</jobTitle>
+    </Employee>
+    <Employee>
+        <employeeNumber>1705</employeeNumber>
+        <lastName>Paterson</lastName>
+        <firstName>John</firstName>
+        <extension>x45</extension>
+        <email>paterson@example.com</email>
+        <officeCode>4</officeCode>
+        <reportsTo>1143</reportsTo>
+        <jobTitle>Sales Rep</jobTitle>
+    </Employee>
+</Employees>

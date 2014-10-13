@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<note>
+    <phone type="string">0231078945</phone>
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+    <status>4</status>
+    <address>
+        <city>New York</city>
+        <postalCode>30145</postalCode>
+    </address>
+</note>
