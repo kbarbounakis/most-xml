@@ -2,7 +2,7 @@
     "name": "most-xml",
     "version": "0.2.0",
     "description": "Most Web Framework XML and XSLT Module",
-    "homepage": "http://www.mostjs.com/xml",
+    "homepage": "https://github.com/kbarbounakis/most-xml",
     "repository": {
         "type": "git",
         "url": "https://github.com/kbarbounakis/most-xml.git"
