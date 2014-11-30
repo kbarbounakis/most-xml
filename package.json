@@ -1,8 +1,8 @@
 {
     "name": "most-xml",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Most Web Framework XML and XSLT Module",
-    "homepage": "https://github.com/kbarbounakis/most-xml",
+    "homepage": "http://www.mostjs.com/xml",
     "repository": {
         "type": "git",
         "url": "https://github.com/kbarbounakis/most-xml.git"
@@ -26,6 +26,6 @@
     "devDependencies": {},
     "main": "lib/index.js",
     "scripts": {  },
-    "_id": "most-xml@0.2.0",
+    "_id": "most-xml@0.3.0",
     "_from": "most-xml@"
 }
