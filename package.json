@@ -1,31 +1,31 @@
 {
-    "name": "most-xml",
-    "version": "0.3.0",
-    "description": "Most Web Framework XML and XSLT Module",
-    "homepage": "http://www.mostjs.com/xml",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/kbarbounakis/most-xml.git"
-    },
-    "keywords": [
-        "xml",
-        "xsl",
-        "dom",
-        "xpath"
-    ],
-    "author": {
-        "name": "Kyriakos Barbounakis",
-        "email": "k.barbounakis@gmail.com"
-    },
-    "licenses": [
-        {
-            "type": "BSD-3 Clause"
-        }
-    ],
-    "dependencies": {},
-    "devDependencies": {},
-    "main": "lib/index.js",
-    "scripts": {  },
-    "_id": "most-xml@0.3.0",
-    "_from": "most-xml@"
+  "name": "most-xml",
+  "version": "0.3.1",
+  "description": "Most Web Framework XML and XSLT Module",
+  "homepage": "http://www.mostjs.com/xml",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbarbounakis/most-xml.git"
+  },
+  "keywords": [
+    "xml",
+    "xsl",
+    "dom",
+    "xpath"
+  ],
+  "author": {
+    "name": "Kyriakos Barbounakis",
+    "email": "k.barbounakis@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "BSD-3 Clause"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "lib/index.js",
+  "scripts": {},
+  "_id": "most-xml@0.3.0",
+  "_from": "most-xml@"
 }
