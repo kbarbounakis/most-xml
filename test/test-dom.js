@@ -16,7 +16,7 @@ exports.loadFileAndEvaluate = function (test) {
             var nodes = expr.evaluate("Item[employeeNumber = 1076]");
     });
 
-}
+};
 
 
 exports.loadXml = function (test) {
@@ -29,7 +29,7 @@ exports.loadXml = function (test) {
     console.log(doc.documentElement.outerXML());
     test.done();
 
-}
+};
 
 
 
